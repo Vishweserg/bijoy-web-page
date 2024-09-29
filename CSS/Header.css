@@ -1,5 +1,7 @@
 body{
-    background-image: url("https://wallpaperaccess.com/full/2539464.jpg");
+    background-image: url("271014.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
     height: 300%;
     width: 100%;
 }
@@ -123,14 +125,14 @@ button{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-weight: bold;
     color: salmon;
-    margin-left: 5%;
+    margin-left: 8.5%;
 }
 .SMG:hover{
     color: whitesmoke;
 }
 .Footer{
     margin-top: 30%;
-    background-image: url("6ee19142a58f28b93766a9f44663a540.jpg");
+    background-image: url("OIP.jpeg");
 }
 .mail,.linkedin,.disc,.insta{
     width: 50px;
