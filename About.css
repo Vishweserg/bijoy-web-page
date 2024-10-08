@@ -1,6 +1,8 @@
 body{
-    background-image: url("271014.jpg");
-    height: 250%;
+    background-image: url("background1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300%;
     width: 100%;
 }
 .home,.about{
@@ -45,9 +47,12 @@ a:hover{
     cursor: pointer;
 }
 .Header1{
-    background-image: url("6ee19142a58f28b93766a9f44663a540.jpg");
+    background-image: url("header1.jpg");
     border-radius: 100px;
     margin-top: 5%;
+    width: 88%;
+    vertical-align: middle;
+    margin-left: 6%;
 }
 .title{
     font-size: 70px;
@@ -117,10 +122,10 @@ h1,h2,p{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-weight: bold;
     color: salmon;
-    margin-left: 5%;
+    margin-left: 8.5%;
 }
 .SMG:hover{
-    color: whitesmoke;
+    color: black;
 }
 .Footer{
     margin-top: 30%;
@@ -138,21 +143,6 @@ h1,h2,p{
 .linkedin{
     width: 40px;
 }
-.qoute2{
-    font-size: 50px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-weight: bold;
-    color: wheat;
-    text-align: center;
-}
-.gbv{
-    font-size: 70px;
-    text-align: right;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-weight: bold;
-    color: mediumslateblue;
-    margin-right: 18%;
-}
 a{
-    color: black;
+    color: white;
 }

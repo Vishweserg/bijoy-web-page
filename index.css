@@ -1,5 +1,5 @@
 body{
-    background-image: url("271014.jpg");
+    background-image: url("background1.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 300%;
@@ -35,7 +35,7 @@ a:hover{
     color: blueviolet;
 }
 .home{
-    margin-left: 42.5%;
+    margin-left: 30%;
 }
 .about{
     margin-left: 5%;
@@ -50,9 +50,12 @@ a:hover{
     cursor: pointer;
 }
 .Header1{
-    background-image: url("6ee19142a58f28b93766a9f44663a540.jpg");
+    background-image: url("header1.jpg");
     border-radius: 100px;
     margin-top: 5%;
+    width: 88%;
+    vertical-align: middle;
+    margin-left: 6%;
 }
 .one{
     text-align: center;
@@ -69,8 +72,8 @@ a:hover{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-weight: bold;
     font-size: 60px;
-    color: lightseagreen;
-    margin-left: 3%;
+    color: maroon;
+    margin-left: 7.2%;
     margin-top: 10%;
     margin-bottom: 0%;
 }
@@ -87,7 +90,7 @@ button{
 .contact{
     background-color: darkblue;
     color: white;
-    border-color: black;
+    border-color: white;
     margin-left: 10%;
 }
 .contact:hover{
@@ -105,7 +108,7 @@ button{
 .abouttxt{
     font-size: 25px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    color: azure;
+    color: darkblue;
     width: 45%;
     margin-left: 3%;
     margin-top: 5%;
@@ -128,7 +131,7 @@ button{
     margin-left: 8.5%;
 }
 .SMG:hover{
-    color: whitesmoke;
+    color: black;
 }
 .Footer{
     margin-top: 30%;
@@ -146,22 +149,6 @@ button{
 .linkedin{
     width: 40px;
 }
-.qoute2{
-    font-size: 50px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-weight: bold;
-    color: wheat;
-    text-align: center;
-    font-style: italic;
-}
-.gbv{
-    font-size: 70px;
-    text-align: right;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-weight: bold;
-    color: pink;
-    margin-right: 18%;
-}
 a{
-    color: black;
+    color: white;
 }
